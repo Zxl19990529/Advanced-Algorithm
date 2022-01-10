@@ -114,5 +114,5 @@ python plot.py --log log\\3_layer_tanh\\train.log --mode train
 
 The visulization of the evaluation metrics will be generated.
 
-![](imgs\test.png)
-![](imgs\train.png)
+![](imgs/test.png)
+![](imgs/train.png)
