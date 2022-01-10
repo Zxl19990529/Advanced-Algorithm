@@ -1,0 +1,14 @@
+network:
+  learning_rate : 0.0001
+  weight_decay : 0.005
+  momentum : 0.9
+  batch_size : 256
+train:
+  batch_size : 2000
+  max_epoch : 100
+  record_freq : 1
+  test_epoch : 1
+  log: 'train.log'
+test:
+  batch_size : 20
+  log: 'test.log'
